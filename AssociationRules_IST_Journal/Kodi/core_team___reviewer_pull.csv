@@ -1,0 +1,7 @@
+"Antecedent (X)","Consequent (Y)","Support","Confidence","Lift","Leverage","Conviction"
+"developer_type=core","reviewer_pull=MartijnKaijser","0.0","0.2","0.82","-0.0","0.93"
+"developer_type=core","reviewer_pull=Montellese","0.0","0.13","3.41","0.0","1.09"
+"developer_type=core","reviewer_pull=jmarshallnz","0.0","0.11","0.56","-0.0","0.88"
+"developer_type=core","reviewer_pull=mkortstiege","0.0","0.06","1.32","0.0","1.0"
+"developer_type=core","reviewer_pull=FernetMenta","0.0","0.06","3.16","0.0","1.03"
+"developer_type=core","reviewer_pull=xhaggi","0.0","0.06","6.23","0.0","1.04"
